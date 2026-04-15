@@ -1,3 +1,3 @@
-module github.com/yourusername/jpush-go
+module github.com/wugg/jpush
 
 go 1.18

@@ -1,3 +1,3 @@
 module github.com/wugg/jpush
 
-go 1.18
+go 1.24

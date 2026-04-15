@@ -1,0 +1,10 @@
+# ByteDance彤光子项目专用，请勿使用
+
+*.test
+*.out
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store

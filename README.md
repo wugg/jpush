@@ -1,4 +1,4 @@
-# jpush-go
+# jpush
 
 极光推送 Go 语言客户端 SDK，支持 Push、Schedule、Device、Report 全套 API。
 

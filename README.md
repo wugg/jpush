@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-go get github.com/yourusername/jpush-go
+go get github.com/wugg/jpush
 ```
 
 ## 快速开始
@@ -24,7 +24,7 @@ package main
 
 import (
     "fmt"
-    jpush "github.com/yourusername/jpush-go"
+    jpush "github.com/wugg/jpush"
 )
 
 func main() {
